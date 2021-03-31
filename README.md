@@ -1,4 +1,4 @@
-# flutter_app1
+# Flutter Expense Manager
 
 A new Flutter project.
 
